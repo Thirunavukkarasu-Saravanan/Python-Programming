@@ -1,0 +1,17 @@
+This is a project to scrape data from the web and store the results in a text file.
+
+Done using Jupyter Notebook.
+
+Setup needed - Jupyter Notebook
+
+All other Instructions to run cprogram listed as comments in python notebook file. 
+
+
+File contents 
+
+1)  Project specification.txt - Project specification 
+2)  Project.ipynb - python note book file
+3)  Read me.txt - General instructions
+4)  stocks.csv - copy of file that wil be generated every time program is executed
+
+Note - Remove "stocks.csv" when running program to prevent file already exists exception.
